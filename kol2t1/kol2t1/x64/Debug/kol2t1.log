@@ -1,0 +1,4 @@
+﻿  T1s1.cpp
+C:\Users\student\Desktop\kol2-ppk\kol2t1\kol2t1\T1s1.cpp(66,13): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\student\Desktop\kol2-ppk\kol2t1\kol2t1\T1s1.cpp(105,16): warning C4101: "w": lokalna zmienna, do której nie istnieje odwołanie
+  kol2t1.vcxproj -> C:\Users\student\Desktop\kol2-ppk\kol2t1\x64\Debug\kol2t1.exe
